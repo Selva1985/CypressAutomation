@@ -1,0 +1,2 @@
+# CypressAutomation
+QA Testing Practice
